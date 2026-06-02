@@ -1,0 +1,18 @@
+# Secrets and local environment
+.env
+.env.*
+*.key
+*.pem
+*_TOKEN*
+*token*
+
+# OS and editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak

@@ -1,0 +1,70 @@
+Use the same identity block before every panel prompt:
+
+@Image1 identity lock: LUNA XIA, a young adult moonlight livehouse vocalist and urban dream-pop idol, soft-spoken, dreamy, elegant, quietly confident. She has a delicate oval face, smooth fair skin, soft cheek volume, glossy natural pink lips, subtle winged eyeliner, warm peach-pink makeup, expressive calm eyes, and long straight warm auburn-brown hair with a softly lifted crown and loose face-framing strands.
+
+Keep her exact styling consistent: thin clear or silver rim glasses, white asymmetrical off-shoulder wrap-style top with soft fabric folds, silver wired in-ear monitors with visible cable lines, small metallic earrings, delicate silver necklace, and a silver handheld wired microphone as her signature prop. The microphone remains full size and metallic silver throughout the shot, with a visible mesh grille and dark cable connector.
+
+Visual style: cinematic semi-realistic idol character animation, intimate karaoke lounge atmosphere, dream-pop live performance mood, soft beauty lighting, pink-magenta and violet neon glow, dark wood wall panels, beige sofa, shallow depth of field, high-detail hair strands, realistic skin texture, natural hand motion, polished music-video composition. Color palette: pearl white, warm auburn brown, silver, champagne beige, smoky charcoal, soft pink, magenta, violet.
+
+Universal negative prompt:
+Negative prompt: no face drift, no changing facial structure, no changing hair color, no short hair, no different hairstyle, no missing glasses, no thick black glasses, no missing wired earphones, no missing microphone, no wireless microphone, no microphone morphing, silver wired microphone remains full size and unchanged throughout the shot, no different outfit, no black outfit, no school uniform, no fantasy armor, no extra jewelry overload, no broken hands, no extra fingers, no fused fingers, no warped fingers, no warped microphone grip, no distorted lips, no exaggerated mouth movement, no teeth distortion, no plastic skin, no over-smoothed doll face, no chibi style, no exaggerated anime comedy, no text overlays, no phone UI, no livestream comments, no app icons, no logo, no subtitles, no crowded scene, no extra main characters, no heavy camera shake, no fast camera spin.
+
+Panel 01:
+Vertical full-body shot, LUNA XIA stands alone in a private livehouse room, holding the silver wired microphone at her side, white off-shoulder outfit glowing under pink-violet light, slow camera push-in, 9:16.
+
+Panel 02:
+Vertical medium shot, LUNA XIA sits on a beige karaoke lounge sofa in a relaxed 3/4 pose, microphone near her lips, dark wood wall softly blurred behind her, subtle camera dolly forward, 9:16.
+
+Panel 03:
+Side profile close-up, LUNA XIA sings softly into the silver wired microphone, earphone cable visible along her cheek and neck, pink light reflected on her clear glasses, static camera, 9:16.
+
+Panel 04:
+Low angle medium shot, LUNA XIA kneels on a small stage while holding the microphone cable loosely, white fabric folds naturally, violet backlight creates a soft silhouette, slow tilt up, 9:16.
+
+Panel 05:
+Front portrait shot, LUNA XIA looks calmly into the camera with the microphone below frame, subtle breathing motion, pink-magenta light across her cheeks, 9:16.
+
+Panel 06:
+Close-up portrait, LUNA XIA gives a restrained soft smile behind clear silver rim glasses, microphone mesh barely visible at the bottom of frame, static camera, 9:16.
+
+Panel 07:
+Dreamy medium close-up, LUNA XIA looks slightly off camera as if listening to music in her earphones, long auburn hair over both shoulders, slow camera push-in, 9:16.
+
+Panel 08:
+Focused singing close-up, LUNA XIA holds the microphone close to her lips and sings with small natural mouth movement, shallow depth of field, 9:16.
+
+Panel 09:
+Extreme close-up of LUNA XIA's eyes behind clear silver rim glasses, pink-violet reflections on lenses, natural blink once, static macro shot, 9:16.
+
+Panel 10:
+Extreme close-up of LUNA XIA's glossy lips near the silver microphone grille, soft breath movement only, cinematic macro shot, 9:16.
+
+Panel 11:
+Close-up of LUNA XIA's hand gripping the metallic silver wired microphone, fingers natural and relaxed, mesh grille and dark connector visible, slow rack focus, 9:16.
+
+Panel 12:
+Close-up of LUNA XIA's fingers lightly touching the microphone cable, silver earphone cable also visible, pink light on fingertips, static macro shot, 9:16.
+
+Panel 13:
+Detail close-up of LUNA XIA's silver wired in-ear monitor and small metallic earring, auburn hair strands moving gently, shallow focus, 9:16.
+
+Panel 14:
+Hair and glasses detail, LUNA XIA has clear silver rim glasses pushed onto her head, softly lifted crown and loose strands visible, slow side camera move, 9:16.
+
+Panel 15:
+Costume detail close-up, white asymmetrical off-shoulder fabric folds catch pink-violet light, silver necklace and earphone cable crossing softly, static camera, 9:16.
+
+Panel 16:
+Back hair view, LUNA XIA faces away slightly, long straight auburn-brown hair falls down her back, earphone cable visible, soft lounge background, slow camera drift, 9:16.
+
+Panel 17:
+Over-shoulder medium shot, LUNA XIA turns back toward the camera with calm dreamy eyes, microphone held at chest height, dark wood wall and beige sofa behind, 9:16.
+
+Panel 18:
+Silhouette shot, LUNA XIA stands in pink-violet stage light holding the wired microphone, cable line visible against a smoky dark background, gentle camera sway, 9:16.
+
+Panel 19:
+Intimate close-up, LUNA XIA reaches one hand gently toward the camera while holding the silver wired microphone in the other hand, strong depth of field, slow push-in, 9:16.
+
+Panel 20:
+Wide vertical performance shot, LUNA XIA stands alone on a small private livehouse stage and sings softly into the microphone, violet light blooms behind her, polished music-video atmosphere, 9:16.
