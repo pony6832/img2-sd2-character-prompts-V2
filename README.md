@@ -4,6 +4,7 @@
 
 ## Contents
 
+- `docs/img2-sd2-character-prompts_V2.md`：img2-sd2-character-prompts V2 固定流程，含翠花角色包完整重跑流程與驗收紀錄。
 - `角色設定-03/`：YUNA AME 角色卡、Image2 prompt、Seedance 2.0 prompt、12 格展示分鏡與圖卡。
 - `KPOP角色設定/`：LUNA XIA 角色卡、Image2 prompt、Seedance 2.0 prompt、20 格展示分鏡與圖卡。
 - `assets/references/角色設定-03/`：原始參考圖。
